@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,qBACF,CAEA,MACE,cAAe,CACf,OAAQ,CACR,QAAS,CACT,UAAW,CACX,8BACF","file":"src.304c8c22.css","sourceRoot":"../src","sourcesContent":["body {\n  background-color: black;\n}\n\n.ball {\n  position: fixed;\n  top: 50%;\n  left: 50%;\n  width: 100%;\n  transform: translate(-50%, -50%);\n}"]}

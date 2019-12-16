@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+
+.ball {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 100%;
+  transform: translate(-50%, -50%);
+}
+
+/*# sourceMappingURL=/src.f69400ca.css.map */
